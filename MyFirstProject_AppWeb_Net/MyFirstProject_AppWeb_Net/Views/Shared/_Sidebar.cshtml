@@ -1,0 +1,26 @@
+﻿<!-- Menu -->
+<aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
+	<div class="app-brand demo">
+		<a asp-controller="Employee" asp-action="Index" class="app-brand-link">
+			<img src="~/content/assets/img/favicon/favicon.ico" alt="Sneat" width="30" height="24">
+			<span class="fw-semi-bold text-secondary fs-6 ms-2 lh-lg fw-semibold">Sneat</span>
+		</a>
+
+		<a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
+			<i class="bx bx-chevron-left bx-sm align-middle"></i>
+		</a>
+	</div>
+
+	<div class="menu-inner-shadow"></div>
+
+	<ul class="menu-inner py-1">
+		<!-- Karyawan -->
+		<li class="menu-item">
+			<a asp-controller="Employee" asp-action="Index" class="menu-link">
+				<i class="menu-icon tf-icons bx bxs-user"></i>
+				<div>Karyawan</div>
+			</a>
+		</li>
+	</ul>
+</aside>
+<!-- / Menu -->

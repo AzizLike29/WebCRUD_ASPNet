@@ -1,0 +1,106 @@
+﻿@model Employee
+@{
+	ViewData["Title"] = "Update Employee";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="layout-wrapper layout-content-navbar">
+	<div class="layout-container">
+		@await Html.PartialAsync("_Sidebar")
+		<div class="layout-page">
+			@await Html.PartialAsync("_Navbar")
+			<div class="content-wrapper">
+				<div class="container-xxl flex-grow-1 container-p-y">
+					<a asp-action="Index" class="btn btn-secondary btn-sm mb-3 gap-2">
+						<i class="bx bx-arrow-back rotate-180"></i>
+						<span>Back to List</span>
+					</a>
+					<nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+						<ol class="breadcrumb">
+							<li class="breadcrumb-item"><a asp-controller="Employee" asp-action="Update">Update</a></li>
+							<li class="breadcrumb-item active" aria-current="page">Karyawan</li>
+						</ol>
+					</nav>
+					<form method="post" asp-action="Update">
+						<input asp-for="id" type="hidden" />
+						<div class="form-group my-2">
+							<label asp-for="name">Name:</label>
+							<input asp-for="name" class="form-control" readonly />
+						</div>
+						<div class="form-group my-2">
+							<label asp-for="age">Age:</label>
+							<input asp-for="age" class="form-control" required />
+							<span asp-validation-for="age" class="text-danger"></span>
+						</div>
+						<div class="form-group my-2">
+							<label asp-for="salary">Salary:</label>
+							<input asp-for="salary" class="form-control" required />
+							<span asp-validation-for="salary" class="text-danger"></span>
+						</div>
+						<div class="form-group my-2">
+							<label asp-for="department">Department:</label>
+							<select asp-for="department" class="form-control" required>
+								<option value="Development">Development</option>
+								<option value="HR">HR</option>
+								<option value="Research">Research</option>
+							</select>
+							<span asp-validation-for="department" class="text-danger"></span>
+						</div>
+						<div class="form-group my-2">
+							<label asp-for="sex">Sex:</label>
+							<div>
+								<div class="form-check form-check-inline">
+									<input class="form-check-input" type="radio" asp-for="sex" value="M" />
+									<label class="form-check-label">Male</label>
+								</div>
+								<div class="form-check form-check-inline">
+									<input class="form-check-input" type="radio" asp-for="sex" value="F" />
+									<label class="form-check-label">Female</label>
+								</div>
+							</div>
+							<span asp-validation-for="sex" class="text-danger"></span>
+						</div>
+						<button type="submit" class="btn btn-primary my-2" onclick="AlertUpdateData(event, this.form);">Update</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+@await Html.PartialAsync("_Footer")
+
+<script type="text/javascript">
+	function AlertUpdateData(event, form) {
+		event.preventDefault();
+			Swal.fire({
+				title: 'Yakin ingin mengubah data?',
+				icon: 'question',
+				buttons: true,
+				showCancelButton: true,
+				dangerMode: true
+			}).then((result) => {
+				if (result.isConfirmed) {
+					Swal.fire({
+						text: 'Data berhasil diubah!',
+						icon: 'success',
+						timer: 1500,
+						showConfirmButton: false
+					}).then(() => {
+						form.submit();
+					});
+				} else {
+					Swal.fire({
+						text: 'Data batal diubah',
+						icon: 'info',
+						timer: 1500,
+						showConfirmButton: false
+					});
+				}
+			});
+		}
+</script>
+
+<style>
+	.swal2-backdrop-show {
+		z-index: 9999;
+	}
+</style>

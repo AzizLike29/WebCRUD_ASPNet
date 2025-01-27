@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|d:\\test 1\\myfirstproject_appweb_net\\myfirstproject_appweb_net\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|solutionrelative:myfirstproject_appweb_net\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|d:\\test 1\\myfirstproject_appweb_net\\myfirstproject_appweb_net\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|solutionrelative:myfirstproject_appweb_net\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|d:\\test 1\\myfirstproject_appweb_net\\myfirstproject_appweb_net\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|solutionrelative:myfirstproject_appweb_net\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|d:\\test 1\\myfirstproject_appweb_net\\myfirstproject_appweb_net\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|solutionrelative:myfirstproject_appweb_net\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|d:\\test 1\\myfirstproject_appweb_net\\myfirstproject_appweb_net\\views\\component\\_detailmodalemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|solutionrelative:myfirstproject_appweb_net\\views\\component\\_detailmodalemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|d:\\test 1\\myfirstproject_appweb_net\\myfirstproject_appweb_net\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEB2A6B-317A-442B-B0B9-A802B27A31B1}|MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net.csproj|solutionrelative:myfirstproject_appweb_net\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFirstProject_AppWeb_Net\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MyFirstProject_AppWeb_Net\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T19:12:30.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyFirstProject_AppWeb_Net\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MyFirstProject_AppWeb_Net\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T03:13:16.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "MyFirstProject_AppWeb_Net\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "MyFirstProject_AppWeb_Net\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:53:35.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyFirstProject_AppWeb_Net\\Models\\Employee.cs",
+              "ToolTip": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Models\\Employee.cs",
+              "RelativeToolTip": "MyFirstProject_AppWeb_Net\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:13:20.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyFirstProject_AppWeb_Net\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyFirstProject_AppWeb_Net\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:12:38.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_DetailModalEmployee.cshtml",
+              "DocumentMoniker": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Component\\_DetailModalEmployee.cshtml",
+              "RelativeDocumentMoniker": "MyFirstProject_AppWeb_Net\\Views\\Component\\_DetailModalEmployee.cshtml",
+              "ToolTip": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\Views\\Component\\_DetailModalEmployee.cshtml",
+              "RelativeToolTip": "MyFirstProject_AppWeb_Net\\Views\\Component\\_DetailModalEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T15:25:11.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+﻿@model Employee
+
+@* modal *@
+<div class="modal fade" id="DetailModalEmployee-@Model.id" tabindex="-1" aria-labelledby="DetailModalEmployeeLabel-@Model.id" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="DetailModalEmployeeLabel-@Model.id">Detail Karyawan</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="dropdown-divider"></div>
+            <div class="modal-body">
+                <div class="row mb-3">
+                    <label class="col-sm-4">Name</label>
+                    <div class="col-sm-1">:</div>
+                    <div class="col-sm-7">
+                        <p class="mb-0">@Model.name</p>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label class="col-sm-4">Age</label>
+                    <div class="col-sm-1">:</div>
+                    <div class="col-sm-7">
+                        <p class="mb-0">@Model.age</p>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label class="col-sm-4">Salary</label>
+                    <div class="col-sm-1">:</div>
+                    <div class="col-sm-7">
+                        <p class="mb-0">@Model.salary</p>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label class="col-sm-4">Department</label>
+                    <div class="col-sm-1">:</div>
+                    <div class="col-sm-7">
+                        <p class="mb-0">@Model.department</p>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label class="col-sm-4">Sex</label>
+                    <div class="col-sm-1">:</div>
+                    <div class="col-sm-7">
+                        <p class="mb-0">@Model.sex</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@* end modal *@

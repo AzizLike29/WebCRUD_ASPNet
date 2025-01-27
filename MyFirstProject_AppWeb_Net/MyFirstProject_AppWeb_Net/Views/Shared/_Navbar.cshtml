@@ -1,0 +1,79 @@
+﻿<nav class="layout-navbar container-xxl navbar navbar-expand-xl navbar-detached align-items-center bg-navbar-theme" id="layout-navbar">
+	<div class="layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0 d-xl-none">
+		<a class="nav-item nav-link px-0 me-xl-4" href="javascript:void(0)">
+			<i class="bx bx-menu bx-sm"></i>
+		</a>
+	</div>
+
+	<div class="navbar-nav-right d-flex align-items-center  justify-content-end" id="navbar-collapse">
+
+		<!-- Notifications -->
+		<ul class="navbar-nav flex-row align-items-center ms-auto">
+			<li class="navbar-item">
+				<div>
+					<span class="fw-semibold d-block">abdulfirdaus590@gmail.com</span>
+					<small class="text-muted">Developer</small>
+				</div>
+			</li>
+			<li class="navbar-item">
+				<a class="nav-link dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+					<i class='menu-icon bx bxs-bell bx-tada'></i>
+				</a>
+				<ul class="dropdown-menu dropdown-menu-end">
+					<li>
+						<a class="dropdown-item">
+							<i class='menu-icon bx bx-message-square-error text-success'></i>
+							<span class="align-middle">Aziz Successfully added data</span>
+						</a>
+					</li>
+					<li>
+						<div class="dropdown-divider"></div>
+					</li>
+					<li>
+						<a class="dropdown-item">
+							<i class='menu-icon bx bx-message-square-error text-danger'></i>
+							<span class="align-middle">Aziz failed to add data</span>
+						</a>
+					</li>
+					<li>
+						<div class="dropdown-divider"></div>
+					</li>
+					<li>
+						<a class="dropdown-item">
+							<i class='menu-icon bx bx-message-square-error text-danger'></i>
+							<span class="align-middle">Aziz failed to modify the data</span>
+						</a>
+					</li>
+				</ul>
+			</li>
+			<!-- /Notifications -->
+
+			<!-- User -->
+			<li class="nav-item navbar-dropdown dropdown-user dropdown">
+				<a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+					<div class="avatar avatar-online">
+						<img src="~/content/assets/img/avatars/1.png" alt="" class="w-px-40 h-auto rounded-circle">
+					</div>
+				</a>
+				<ul class="dropdown-menu dropdown-menu-end">
+					<li>
+						<a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#profileModal" style="cursor: pointer;">
+							<i class="bx bx-user me-2"></i>
+							<span class="align-middle">My Profile</span>
+						</a>
+					</li>
+					<li>
+						<div class="dropdown-divider"></div>
+					</li>
+					<li>
+						<a class="dropdown-item" asp-controller="Employee" asp-action="Index">
+							<i class="bx bx-power-off me-2"></i>
+							<span class="align-middle">Log Out</span>
+						</a>
+					</li>
+				</ul>
+			</li>
+			<!--/ User -->
+		</ul>
+	</div>
+</nav>

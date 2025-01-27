@@ -1,0 +1,1381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyFirstProject_AppWeb_Net.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyFirstProject_AppWeb_Net.p5ho7gnq80.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\.browserslistrc",
+      "PackagePath": "staticwebassets\\Content\\.browserslistrc"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\.eslintignore",
+      "PackagePath": "staticwebassets\\Content\\.eslintignore"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Content\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\.gitignore",
+      "PackagePath": "staticwebassets\\Content\\.gitignore"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\.prettierignore",
+      "PackagePath": "staticwebassets\\Content\\.prettierignore"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\.prettierrc.json",
+      "PackagePath": "staticwebassets\\Content\\.prettierrc.json"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Content\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Content\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\README.md",
+      "PackagePath": "staticwebassets\\Content\\README.md"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\css\\fontSans.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\fontSans.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\img\\logo\\Logo-Company.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\logo\\Logo-Company.png"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\build-config.js",
+      "PackagePath": "staticwebassets\\Content\\build-config.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\documentation.html",
+      "PackagePath": "staticwebassets\\Content\\documentation.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\Content\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\gulpfile.js",
+      "PackagePath": "staticwebassets\\Content\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\Content\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\Content\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\Content\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\Content\\html\\cards-basic.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\Content\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\Content\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\Content\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\Content\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\Content\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\Content\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\Content\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\index.html",
+      "PackagePath": "staticwebassets\\Content\\html\\index.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\Content\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\Content\\html\\layouts-container.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\Content\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\Content\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\Content\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\Content\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\Content\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\Content\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\Content\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\Content\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\Content\\html\\tables-basic.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-badges.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-footer.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-modals.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-progress.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\Content\\html\\ui-typography.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\index.html",
+      "PackagePath": "staticwebassets\\Content\\index.html"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Content\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\Content\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\js\\menu.js",
+      "PackagePath": "staticwebassets\\Content\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\Content\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Content\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\Content\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\Content\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\Content\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Content\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\Content\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Content\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\Content\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Content\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\package-lock.json",
+      "PackagePath": "staticwebassets\\Content\\package-lock.json"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\package.json",
+      "PackagePath": "staticwebassets\\Content\\package.json"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_colors.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\core.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\Content\\tasks\\build.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\Content\\tasks\\prod.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\webpack.config.js",
+      "PackagePath": "staticwebassets\\Content\\webpack.config.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\Content\\yarn.lock",
+      "PackagePath": "staticwebassets\\Content\\yarn.lock"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\DataTables\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Test 1\\MyFirstProject_AppWeb_Net\\MyFirstProject_AppWeb_Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyFirstProject_AppWeb_Net.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyFirstProject_AppWeb_Net.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyFirstProject_AppWeb_Net.props",
+      "PackagePath": "build\\MyFirstProject_AppWeb_Net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyFirstProject_AppWeb_Net.props",
+      "PackagePath": "buildMultiTargeting\\MyFirstProject_AppWeb_Net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyFirstProject_AppWeb_Net.props",
+      "PackagePath": "buildTransitive\\MyFirstProject_AppWeb_Net.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,214 @@
+﻿<!DOCTYPE html>
+<html lang="en"
+      class="light-style layout-menu-fixed"
+      dir="ltr"
+      data-theme="theme-default"
+      data-assets-path="~/content/assets/"
+      data-template="vertical-menu-template-free">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+    <meta charset="utf-8" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+
+    <title>Sneat - Free Bootstrap 5 HTML Admin Template</title>
+
+    <meta name="description" content="" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="~/content/assets/img/favicon/favicon.ico" />
+
+    <!-- Icons. Uncomment required icon fonts -->
+    <link rel="stylesheet" href="~/content/assets/vendor/fonts/boxicons.css" />
+
+    <!-- Fonts -->
+   <link rel="stylesheet" href="~/Content/assets/css/fontSans.css"/>
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="~/content/assets/vendor/css/core.css" />
+    <link rel="stylesheet" href="~/content/assets/vendor/css/theme-default.css" />
+    <link rel="stylesheet" href="~/content/assets/vendor/css/core.css" class="template-customizer-core-css" />
+    <link rel="stylesheet" href="~/content/assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+    <link rel="stylesheet" href="~/content/assets/css/demo.css" />
+
+    <!-- Vendors CSS -->
+    <link rel="stylesheet" href="~/content/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+
+    <link rel="stylesheet" href="~/content/assets/vendor/libs/apex-charts/apex-charts.css" />
+  
+    <!-- Page CSS -->
+    <link rel="stylesheet" href="~/content/assets/vendor/css/pages/page-auth.css">
+    <link rel="stylesheet" href="~/content/assets/vendor/css/pages/page-misc.css">
+
+    <!-- Helpers -->
+    <script src="~/content/assets/vendor/js/helpers.js"></script>
+
+    <!-- DataTables-->
+    <link rel="stylesheet" href="~/DataTables/css/dataTables.bootstrap5.css" />
+    <!-- DataTables -->
+
+    <style type="text/css">
+        .layout-menu-fixed .layout-navbar-full .layout-menu,
+        .layout-page {
+            padding-top: 0px !important;
+        }
+
+        .content-wrapper {
+            padding-bottom: 0px !important;
+        }
+    </style>
+
+    <script src="~/content/assets/js/config.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+
+    <!-- JQuery JS -->
+    <script src="~/content/assets/vendor/libs/jquery/jquery.js"></script>
+
+<body>
+
+    <style>
+        body {
+            font-size: 13px;
+        }
+    </style>
+    <div>
+        @RenderBody()
+    </div>
+
+    <!--Modal Profile-->
+	<div class="modal fade" id="profileModal" tabindex="-1" role="dialog" aria-labelledby="profileModal" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+						<h5 class="modal-title mx-auto" id="profileModal">Profile Karyawan</h5>
+				</div>
+				<div class="dropdown-divider"></div>
+				<form>
+					<div class="modal-body">
+						<input type="hidden" name="Id" />
+						<table class="table table-borderless">
+							<tr class="fs-6">
+							<td for="nama">
+									Nama Karyawan
+							</td>
+							<td>
+								:
+							</td>
+							<td class="fw-semibold">
+									Abdul Aziz Firdaus
+							</td>
+						</tr>
+							<tr class="fs-6">
+								<td for="nik">
+									NIK
+								</td>
+								<td>
+									:
+								</td>
+								<td class="fw-semibold">
+									32891010101010101828
+								</td>
+							</tr>
+							<tr class="fs-6">
+								<td for="email">
+									Email
+								</td>
+								<td>
+									:
+								</td>
+								<td class="fw-semibold">
+									abdulfirdaus90@gmail.com
+								</td>
+							</tr>
+							<tr class="fs-6">
+								<td for="level">
+									Job Level
+								</td>
+								<td>
+									:
+								</td>
+								<td class="fw-semibold">
+									Manager
+								</td>
+							</tr>
+							<tr class="fs-6">
+								<td for="title">
+									Job Title Name
+								</td>
+								<td>
+									:
+								</td>
+								<td class="fw-semibold">
+									Developer
+								</td>
+							</tr>
+							<tr class="fs-6">
+								<td for="title">
+									Job Site / Company
+								</td>
+								<td>
+									:
+								</td>
+								<td class="fw-semibold">
+									PT. Vista Makmur Sejahtera
+								</td>
+							</tr>
+						</table>
+					</div>
+					<div class="modal-footer d-flex align-items-center">
+						<button type="button" class="btn btn-danger mx-auto w-25" data-bs-dismiss="modal">Out</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+    <!--/Modal Profile-->
+
+    <!-- Core JS -->
+    <!-- build:js assets/vendor/js/core.js -->
+    <script src="~/content/assets/vendor/libs/popper/popper.js"></script>
+    <script src="~/content/assets/vendor/js/bootstrap.js"></script>
+    <script src="~/content/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+
+    <script src="~/content/assets/vendor/js/menu.js"></script>
+    <!-- endbuild -->
+    <!-- Vendors JS -->
+    <script src="~/content/assets/vendor/libs/apex-charts/apexcharts.js"></script>
+    <script src="~/Content/assets/vendor/libs/masonry/masonry.js"></script>
+
+
+    <!-- Main JS -->
+    <script src="~/content/assets/js/main.js"></script>
+
+    <!-- Page JS -->
+    <script src="~/content/assets/js/dashboards-analytics.js"></script>
+    <script src="~/content/assets/js/extended-ui-perfect-scrollbar.js"></script>
+    <script src="~/content/assets/js/ui-toasts.js"></script>
+    <script src="~/content/assets/js/ui-popover.js"></script>
+
+    <!-- DataTables JS -->
+    <script src="~/DataTables/js/dataTables.js"></script>
+    <script src="~/DataTables/js/dataTables.bootstrap5.js"></script>
+  
+    <script>
+        var currentUrl = window.location.pathname;
+        console.log(currentUrl);
+        $('.menu-link').each(function () {
+            var href = $(this).attr('href')
+            console.log(href);
+            if (href === currentUrl) {
+
+                $(this).closest('.menu-item').addClass('active'); // + active &openmenu-item
+                $(this).closest('.menu-sub').addClass('show'); // + show di dropdown
+            }
+        });
+    </script>
+</body>
+</html>

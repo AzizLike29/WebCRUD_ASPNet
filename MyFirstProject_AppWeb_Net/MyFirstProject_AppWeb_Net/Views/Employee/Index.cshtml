@@ -1,0 +1,124 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="layout-wrapper layout-content-navbar">
+    <div class="layout-container">
+        @await Html.PartialAsync("_Sidebar")
+        <div class="layout-page">
+            @await Html.PartialAsync("_Navbar")
+            <div class="content-wrapper">
+                <div class="container-xxl flex-grow-1 container-p-y">
+                    <a asp-action="Create" class="btn btn-primary btn-sm py-2 mb-3">
+                        <i class='bx bx-plus'></i>
+                        <span>Create New Employee</span>
+                    </a>
+                    <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a asp-controller="Employee" asp-action="Index">Index</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Karyawan</li>
+                        </ol>
+                    </nav>
+                    <div class="card">
+                        <div class="card-body">
+                            <table id="DatatableKaryawan">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Age</th>
+                                        <th>Salary</th>
+                                        <th>Department</th>
+                                        <th>Sex</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var employee in Model)
+                                    {
+                                        <tr>
+                                            <td>@employee.name</td>
+                                            <td>@employee.age</td>
+                                            <td>@employee.salary</td>
+                                            <td>@employee.department</td>
+                                            <td>@employee.sex</td>
+                                            <td class="text-nowrap">
+                                                <div class="d-flex gap-2">
+                                                    <button type="button"
+                                                            class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="modal"
+                                                            data-bs-target="#DetailModalEmployee-@employee.id">
+                                                        <i class="bx bxs-show me-1"></i>
+                                                        Detail
+                                                    </button>
+                                                    @await Html.PartialAsync("~/Views/Component/_DetailModalEmployee.cshtml", employee)
+                                                    <a asp-action="Update" asp-route-id="@employee.id" class="btn btn-sm btn-warning d-inline-flex align-items-center">
+                                                        <i class="bx bxs-edit me-1"></i>
+                                                        Update
+                                                    </a>
+                                                    <form asp-action="Delete" asp-route-id="@employee.id" method="post">
+                                                        <button type="button" class="btn btn-sm btn-danger d-inline-flex align-items-center" onclick="AlertDeleteData(event, this.form)">
+                                                            <i class="bx bxs-trash-alt me-1"></i>
+                                                            Delete
+                                                        </button>
+                                                    </form>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@await Html.PartialAsync("_Footer")
+
+<script type="text/javascript">
+    function AlertDeleteData(event, form) {
+        event.preventDefault();
+            Swal.fire({
+                title: 'Yakin ingin menghapus data?',
+                text: "Data yang dihapus tidak dapat dikembalikan!",
+                icon: 'question',
+                buttons: true,
+                showCancelButton: true,
+                dangerMode: true
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    Swal.fire({
+                        text: 'Data berhasil dihapus',
+                        icon: 'success',
+                        timer: 1500,
+                        showConfirmButton: false
+                    }).then(() => {
+                        form.submit();
+                    });
+                } else {
+                    Swal.fire({
+                        text: 'Data batal dihapus',
+                        icon: 'info',
+                        timer: 1500,
+                        showConfirmButton: false
+                    });
+                }
+            });
+        }
+     $(document).ready(function() {
+            $('#DatatableKaryawan').DataTable({
+                scrollX: false,
+                pageLength: 6,
+                paging: true,
+                searching: true
+            });
+        });
+</script>
+
+<style>
+    .swal2-backdrop-show {
+        z-index: 9999;
+    }
+</style>

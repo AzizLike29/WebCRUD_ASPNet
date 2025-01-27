@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyFirstProject_AppWeb_Net.props" />
+</Project>
