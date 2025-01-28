@@ -349,3 +349,4 @@ D:\Test 1\MyFirstProject_AppWeb_Net\MyFirstProject_AppWeb_Net\bin\Debug\net9.0\r
 D:\Test 1\MyFirstProject_AppWeb_Net\MyFirstProject_AppWeb_Net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Test 1\MyFirstProject_AppWeb_Net\MyFirstProject_AppWeb_Net\obj\Debug\net9.0\MyFirstProject_AppWeb_Net.csproj.AssemblyReference.cache
 D:\Test 1\MyFirstProject_AppWeb_Net\MyFirstProject_AppWeb_Net\obj\Debug\net9.0\MyFirstP.AD73004A.Up2Date
+D:\Test 1\MyFirstProject_AppWeb_Net\MyFirstProject_AppWeb_Net\obj\Debug\net9.0\MyFirstProject_AppWeb_Net.sourcelink.json
